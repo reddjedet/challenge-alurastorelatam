@@ -1,22 +1,15 @@
-readme
+
+## El propósito de este código es ayudar a Juan a decidir cuál de sus 4 tiendas es prescindible por bajo rendimiento en ventas y altos costes.
+## Estructura del proyecto y organización de los archivos.
+####
+## Ejemplos de gráficos e insights obtenidos
+####
+## Instrucciones para ejecutar el notebook
+#### 
+
+
 ---
-### consignas
-ayudar a juan a decidir qué tienda (son 4) vender para invertir en un nuevo negocio. 
-cuál de las tiendas tiene un desempeño menor basado en los siguientes 5 aspectos:
-* facturación total de cada tienda
-* categorías mas populares
-* promedio de calificacion de los clientes
-* producto mas y menos vendido
-* costo promedio del envío
 
-### incluir en el readme
-* El propósito del análisis realizado.
-
-* La estructura del proyecto y organización de los archivos.
-
-* Ejemplos de gráficos e insights obtenidos.
-
-* Instrucciones para ejecutar el notebook.
 
 ### entrega
 * Verifique la URL de su proyecto antes de enviar.
