@@ -1,14 +1,20 @@
 
 ## El propósito de este código es ayudar a Juan a decidir cuál de sus 4 tiendas es prescindible por bajo rendimiento en ventas y altos costes.
 ## Estructura del proyecto y organización de los archivos.
-####
+#### ...
 ## Ejemplos de gráficos e insights obtenidos
-####
+#### ...
 ## Instrucciones para ejecutar el notebook
-#### 
+#### ...
 
 
 ---
+
+### detalles 
+
+>  Decide qué tipos de gráficos utilizar para presentar los resultados de forma clara y visual.
+>  Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circulares, de dispersión y otros.
+>  Después del análisis, escriba un texto explicando a qué tienda debería vender el Sr. João y por qué, basándose en los datos presentados.
 
 
 ### entrega
