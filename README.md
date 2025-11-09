@@ -8,17 +8,6 @@
 #### ...
 
 
----
-
-### detalles 
-
->  Decide qué tipos de gráficos utilizar para presentar los resultados de forma clara y visual.
-
->  Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circulares, de dispersión y otros.
-
->  Después del análisis, escriba un texto explicando a qué tienda debería vender el Sr. Juan y por qué, basándose en los datos presentados.
-
-
 ### entrega 
 * Verifique la URL de su proyecto antes de enviar.
 * Una vez ingresada la URL de su proyecto, haga clic en el botón Enviar Enlace.
