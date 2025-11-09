@@ -10,10 +10,9 @@
 
 ## Ejemplos de gráficos e insights obtenidos
 #### 
-[]()
-[]()
-[]()
-[]()
+[categorias](./assets/categorias%20t1.png)
+[productos](./assets/productos1.png)
+[costos](./assets/costos.png)
 
 ## Instrucciones para ejecutar el notebook
 #### ...
