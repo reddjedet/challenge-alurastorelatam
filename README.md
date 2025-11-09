@@ -9,9 +9,11 @@
 #### Decidí conservar algunos bloques de código comentados con el propósito de revisar errores rápidamente y para demostrar que hubo un toque humano en su desarrollo. 
 
 ## Ejemplos de gráficos e insights obtenidos
-#### 
+#### Gráficos de pastel 
 ![categorias](./assets/categorias%20t1.png)
+#### Gráficos de barra 
 ![productos](./assets/productos1.png)
+#### Gráficos de scatter 
 ![costos](./assets/costos.png)
 
 ## Instrucciones para ejecutar el notebook
