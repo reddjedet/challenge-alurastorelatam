@@ -9,6 +9,10 @@
 > también algunos bloques de código comentados con el propósito de revisar errores rápidamente y para demostrar
 > que hubo un toque humano en su desarrollo. 
 
+##### Estructura:
+![estructura](./assets/estructura.png)
+#### El proyecto está compuesto por un primer bloque de código para importar los dataframes de las cuatro tiendas a analizar, seguido de 5 secciones de análisis de la información obtenida que se subdividen en análisis *con* y *sin* gráfico cada uno, excepto en el punto 2 (ventas por categoría). Al final se incluye un breve informe final, con un resúmen de la data obtenida y un desafío opcional para entender la distribución geográfica de las ventas.
+
 ## Ejemplos de gráficos e insights obtenidos
 #### Gráficos de pastel 
 ![categorias](./assets/categorias%20t1.png)
